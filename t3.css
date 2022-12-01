@@ -1,0 +1,34 @@
+.esas3{ 
+    justify-content: space-around; 
+    display: flex;
+}
+.button1{
+    color: white;
+    border: none;
+    padding: 15px;
+    border-radius: 10px;
+    background-color: blue
+    
+    
+}
+.button2{
+    color: white;
+    border: none;
+    padding: 15px;
+    border-radius: 10px;
+    background-color: blue
+}
+.button3{
+    color: white;
+    border: none;
+    padding: 15px;
+    border-radius: 10px;
+    background-color: blue
+}
+.button4{
+    color: white;
+    border: none;
+    padding: 15px;
+    border-radius: 10px;
+    background-color: blue
+}

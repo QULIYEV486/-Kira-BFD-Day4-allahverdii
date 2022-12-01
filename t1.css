@@ -1,0 +1,16 @@
+.esas{
+    display: flex;
+    margin: 10px;
+}
+.h1{
+    margin: 10px;
+    flex-grow: 6;
+}
+.h2{
+    margin: 10px;
+    flex-grow: 3;
+}
+.h3{
+    margin: 10px;
+    flex-grow: 6;
+}
